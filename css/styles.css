@@ -75,7 +75,7 @@ section{padding:110px 0}.sec-head{max-width:720px;margin:0 auto 54px;text-align:
 .quote .stars{color:#F4B942;letter-spacing:3px}.quote p{font-size:17px;color:#2F4640;flex:1}.who{display:flex;align-items:center;gap:14px}.who img{width:52px;height:52px;border-radius:50%;object-fit:cover}.who b{display:block;color:var(--navy)}.who span{color:var(--muted);font-size:14px}
 /* calculator band */
 .calc{padding:0}.calc .inner{background:var(--navy);border-radius:40px;padding:80px 70px;display:grid;grid-template-columns:1.1fr .9fr;gap:60px;align-items:center;position:relative;overflow:hidden;color:#fff}
-.calc .inner:before{content:"";position:absolute;right:-140px;bottom:-200px;width:620px;height:620px;background:url(../brand/mark.png) no-repeat center/contain;opacity:.22}
+.calc .inner:before{content:"";position:absolute;right:-140px;bottom:-200px;width:620px;height:620px;background:url(../brand/mark.webp) no-repeat center/contain;opacity:.22}
 .calc h2{color:#fff}.calc p{opacity:.85;font-size:19px;margin:18px 0 30px;max-width:520px}
 .calc .panel{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);border-radius:24px;padding:28px;backdrop-filter:blur(6px);position:relative}
 .calc .row{display:flex;justify-content:space-between;font-size:15px;opacity:.9;margin-bottom:8px}.calc .track{height:8px;border-radius:8px;background:rgba(255,255,255,.15);margin-bottom:22px;position:relative}.calc .track i{position:absolute;left:0;top:0;height:100%;border-radius:8px;background:var(--grad-cta)}
