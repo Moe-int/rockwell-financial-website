@@ -1,0 +1,21 @@
+:root{
+  --rw-partner-sky: #4cb8eb;
+  --rw-lime-hint: #daee7f;
+  --rw-mint-secondary: #84dfbe;
+  --rw-emerald-primary: #2faa82;
+  --rw-headline-gradient-light: #79cdf4;
+  --rw-headline-gradient-deep: #208264;
+  --rw-headings: #164236;
+  --rw-page-background: #f1faf6;
+  --rw-section-background: #dceff9;
+  --rw-tab-panel: #d8edf8;
+  --rw-tint-light: #ebf8f2;
+  --rw-tint-mid: #e1f4ed;
+  --rw-hero-background-top: #eef9f4;
+  --rw-hero-background-bottom: #d1e9f5;
+  --rw-sticky-header: rgb(220 239 249 / 77%);
+  --rw-gradient-mark: linear-gradient(135deg, #4CB8EB 0%, #4CB8EB 15%, #DAEE7F 46%, #84DFBE 64%, #2FAA82 100%);
+  --rw-gradient-border: linear-gradient(to bottom, #DAEE7F 0%, #84DFBE 40%, #4CB8EB 100%);
+  --rw-gradient-headline: linear-gradient(to left, #208264 0%, #79CDF4 50%, #208264 100%);
+}
+/* Alternate: Lavender E2 Mid -> swap --rw-partner-sky for #A895ED, headline light #C2B3F5, section #EAE5F8, tab #E6DFF6 */

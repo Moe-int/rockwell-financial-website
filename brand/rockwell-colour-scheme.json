@@ -1,0 +1,217 @@
+{
+ "brand": "Rockwell Financial",
+ "saved": "2026-10-25",
+ "primary_scheme": "Sky (D2 Mid)",
+ "alternate_scheme": "Lavender (E2 Mid)",
+ "schemes": {
+  "sky_d2_mid": {
+   "name": "Sky D2 Mid",
+   "roles": {
+    "partner_sky": "#4cb8eb",
+    "lime_hint": "#daee7f",
+    "mint_secondary": "#84dfbe",
+    "emerald_primary": "#2faa82",
+    "headline_gradient_light": "#79cdf4",
+    "headline_gradient_deep": "#208264",
+    "headings": "#164236",
+    "page_background": "#f1faf6",
+    "section_background": "#dceff9",
+    "tab_panel": "#d8edf8",
+    "tint_light": "#ebf8f2",
+    "tint_mid": "#e1f4ed",
+    "hero_background_top": "#eef9f4",
+    "hero_background_bottom": "#d1e9f5",
+    "sticky_header": "rgb(220 239 249 / 77%)"
+   },
+   "gradients": {
+    "logo_mark_and_hero": {
+     "direction": "top-left to bottom-right",
+     "stops": [
+      [
+       0.0,
+       "#4cb8eb"
+      ],
+      [
+       0.15,
+       "#4cb8eb"
+      ],
+      [
+       0.46,
+       "lime tint = 78% lime + 22% mint"
+      ],
+      [
+       0.64,
+       "#84dfbe"
+      ],
+      [
+       1.0,
+       "#2faa82"
+      ]
+     ],
+     "easing": "smoothstep between stops",
+     "hero_shape_opacity": 0.93
+    },
+    "button_and_card_borders": {
+     "direction": "top to bottom",
+     "stops": [
+      [
+       0,
+       "lime tint"
+      ],
+      [
+       0.4,
+       "#84dfbe"
+      ],
+      [
+       1,
+       "#4cb8eb"
+      ]
+     ]
+    },
+    "headline_text": {
+     "direction": "left to right",
+     "stops": [
+      [
+       0,
+       "#208264"
+      ],
+      [
+       0.5,
+       "#79cdf4"
+      ],
+      [
+       1,
+       "#208264"
+      ]
+     ]
+    },
+    "step_number_circles": {
+     "direction": "top to bottom",
+     "stops": [
+      [
+       0,
+       "lime tint"
+      ],
+      [
+       1,
+       "#4cb8eb"
+      ]
+     ]
+    }
+   },
+   "usage": {
+    "links_nav_active_tab_outline": "#2faa82",
+    "about_section_circle": "#4cb8eb",
+    "book_consultation_button_fill": "lime tint at 50% opacity",
+    "footer": "#231F20 unchanged"
+   }
+  },
+  "lavender_e2_mid": {
+   "name": "Lavender E2 Mid",
+   "roles": {
+    "partner_lavender": "#a895ed",
+    "lime_hint": "#daee7f",
+    "mint_secondary": "#84dfbe",
+    "emerald_primary": "#2faa82",
+    "headline_gradient_light": "#c2b3f5",
+    "headline_gradient_deep": "#208264",
+    "headings": "#164236",
+    "page_background": "#f1faf6",
+    "section_background": "#eae5f8",
+    "tab_panel": "#e8e3f7",
+    "tint_light": "#ebf8f2",
+    "tint_mid": "#e1f4ed",
+    "hero_background_top": "#eef9f4",
+    "hero_background_bottom": "#ded8f4",
+    "sticky_header": "rgb(234 229 248 / 77%)"
+   },
+   "gradients": {
+    "logo_mark_and_hero": {
+     "direction": "top-left to bottom-right",
+     "stops": [
+      [
+       0.0,
+       "#a895ed"
+      ],
+      [
+       0.15,
+       "#a895ed"
+      ],
+      [
+       0.46,
+       "lime tint = 78% lime + 22% mint"
+      ],
+      [
+       0.64,
+       "#84dfbe"
+      ],
+      [
+       1.0,
+       "#2faa82"
+      ]
+     ],
+     "easing": "smoothstep between stops",
+     "hero_shape_opacity": 0.93
+    },
+    "button_and_card_borders": {
+     "direction": "top to bottom",
+     "stops": [
+      [
+       0,
+       "lime tint"
+      ],
+      [
+       0.4,
+       "#84dfbe"
+      ],
+      [
+       1,
+       "#a895ed"
+      ]
+     ]
+    },
+    "headline_text": {
+     "direction": "left to right",
+     "stops": [
+      [
+       0,
+       "#208264"
+      ],
+      [
+       0.5,
+       "#c2b3f5"
+      ],
+      [
+       1,
+       "#208264"
+      ]
+     ]
+    },
+    "step_number_circles": {
+     "direction": "top to bottom",
+     "stops": [
+      [
+       0,
+       "lime tint"
+      ],
+      [
+       1,
+       "#a895ed"
+      ]
+     ]
+    }
+   },
+   "usage": {
+    "links_nav_active_tab_outline": "#2faa82",
+    "about_section_circle": "#a895ed",
+    "book_consultation_button_fill": "lime tint at 50% opacity",
+    "footer": "#231F20 unchanged"
+   }
+  }
+ },
+ "typography": {
+  "headings": "Museo Sans 700",
+  "body": "Museo Sans 300",
+  "body_colour": "#231F20"
+ }
+}
