@@ -1,58 +1,3494 @@
 {
- "generated": "2026-10-26T18:00:01",
+ "generated": "2026-11-02T18:35:14",
  "site": "https://rockwellfinancial.com.au/",
  "period": {
-  "start": "2026-09-27",
-  "end": "2026-10-24"
+  "start": "2026-10-04",
+  "end": "2026-10-31"
  },
  "totals": {
-  "clicks": 2,
-  "impressions": 6,
-  "ctr": 0.3333,
-  "position": 2.3333
+  "clicks": 21,
+  "impressions": 851,
+  "ctr": 0.0247,
+  "position": 37.3502
  },
  "queries": [
   {
    "query": "rockwell financial",
-   "clicks": 2,
+   "clicks": 9,
+   "impressions": 13,
+   "ctr": 0.6923,
+   "position": 2.6
+  },
+  {
+   "query": "rockwell investments",
+   "clicks": 1,
    "impressions": 2,
-   "ctr": 1,
+   "ctr": 0.5,
+   "position": 6.5
+  },
+  {
+   "query": "\"buying investment property with superannuation",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "\"super to buy investment property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45.7
+  },
+  {
+   "query": "\"using super to buy investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "query": "best town in australia 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "buy a property with super",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "buy an investment property with super",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 46.3
+  },
+  {
+   "query": "buy investment property using superannuation",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45.3
+  },
+  {
+   "query": "buy investment property with equity",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "query": "buy investment property with super",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 44.7
+  },
+  {
+   "query": "buy investment property with superannuation",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "buy property in smsf",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "buy property smsf",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 32.7
+  },
+  {
+   "query": "buy property superannuation",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 39.7
+  },
+  {
+   "query": "buy property using super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "buy property using superannuation",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "buy property with super",
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 44.3
+  },
+  {
+   "query": "buy property with super australia",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "buy property with super melbourne",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "buy property with superannuation",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45.7
+  },
+  {
+   "query": "buy property with your super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "buying a investment property with super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "buying an investment property with super",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "buying investment property in australia",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 93.2
+  },
+  {
+   "query": "buying investment property using superannuation",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "buying investment property with equity",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 89.2
+  },
+  {
+   "query": "buying investment property with super",
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 47.9
+  },
+  {
+   "query": "buying investment property with superannuation",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 50.4
+  },
+  {
+   "query": "buying property in a smsf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "buying property in smsf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "buying property in super",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "buying property in your super fund",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.7
+  },
+  {
+   "query": "buying property self managed super funds",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "buying property smsf",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "buying property super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "buying property through smsf",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 51.7
+  },
+  {
+   "query": "buying property through super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "buying property using superannuation",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50.5
+  },
+  {
+   "query": "buying property with self managed super fund",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 43.3
+  },
+  {
+   "query": "buying property with smsf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36.5
+  },
+  {
+   "query": "buying property with super",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 51.3
+  },
+  {
+   "query": "buying property with super fund",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 46
+  },
+  {
+   "query": "buying property with superannuation",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 48.5
+  },
+  {
+   "query": "can i buy a house with my super",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "can i buy a property from my smsf",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "can i buy a property with my super",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 43.3
+  },
+  {
+   "query": "can i buy an investment property with my super",
+   "clicks": 0,
+   "impressions": 17,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "can i buy investment property with my super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "can i buy property with my super",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 41.3
+  },
+  {
+   "query": "can i use equity to buy investment property melbourne",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "query": "can i use my super for investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "can i use my super to buy an investment property",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 51.4
+  },
+  {
+   "query": "can i use my super to buy investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "can i use my super to invest in property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 46
+  },
+  {
+   "query": "can i use super to buy an investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "can you buy a house with super",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "can you buy a house with your super",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 36.8
+  },
+  {
+   "query": "can you buy an investment property with super",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 36.3
+  },
+  {
+   "query": "can you buy an investment property with your super",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 34.4
+  },
+  {
+   "query": "can you buy an investment property with your superannuation",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 34
+  },
+  {
+   "query": "can you buy investment property with super",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 40.3
+  },
+  {
+   "query": "can you buy property with a self managed super fund",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 35.2
+  },
+  {
+   "query": "can you buy property with your super",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 30.5
+  },
+  {
+   "query": "can you use super for investment property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "can you use super to buy an investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "can you use super to buy investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "can you use super to buy property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 58
+  },
+  {
+   "query": "can you use your super to buy an investment property",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 48.4
+  },
+  {
+   "query": "can you use your super to buy investment property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "capital growth",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 28.8
+  },
+  {
+   "query": "capital growth investments",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 32.1
+  },
+  {
+   "query": "capital growth investors",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 25.5
+  },
+  {
+   "query": "capital growth melbourne",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "capital growth property",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 25.4
+  },
+  {
+   "query": "capital growth rate",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 51.3
+  },
+  {
+   "query": "check afsl",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "debt investing",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "query": "definition of new build for negative gearing",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8.5
+  },
+  {
+   "query": "equity",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 87.5
+  },
+  {
+   "query": "equity explained",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 53.8
+  },
+  {
+   "query": "equity for investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "query": "equity investment australia",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 37
+  },
+  {
+   "query": "financial planning and property investment",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 96
+  },
+  {
+   "query": "fixed return real estate investment",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "how long have they been in business",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
    "position": 1
+  },
+  {
+   "query": "how to buy an investment property with equity",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 88.5
+  },
+  {
+   "query": "how to buy an investment property with super",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "how to buy investment property with equity",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 78
+  },
+  {
+   "query": "how to invest in property australia",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "query": "how to invest in property in australia",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 87
+  },
+  {
+   "query": "how to use equity to buy an investment property",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 76.8
+  },
+  {
+   "query": "how to use equity to buy investment property",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 92.7
+  },
+  {
+   "query": "how to use home equity to buy investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
+  },
+  {
+   "query": "interest only vs principal and interest",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 86.4
+  },
+  {
+   "query": "invest super in property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "invest superannuation in property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "investing in property through superannuation",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "investing in property with super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "investing super in property",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "investing super into property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41.5
+  },
+  {
+   "query": "investing superannuation in property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "investment opportunities melbourne",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "query": "investment property equity loan",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 98
+  },
+  {
+   "query": "investment property interest only",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
+  },
+  {
+   "query": "investment property interest only loan",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "query": "investment property self managed super fund",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "investment property using super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "investment property with super",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 39.8
+  },
+  {
+   "query": "is there any benefit to waiting for lower mortgage rates?",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "long term capital growth australia",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 48.3
+  },
+  {
+   "query": "melbourne property market trends 2024",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 62.5
+  },
+  {
+   "query": "melbourne real estate investment opportunities",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 65
+  },
+  {
+   "query": "negative gearing changes 2026",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 99.5
+  },
+  {
+   "query": "negative gearing new builds",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 82
+  },
+  {
+   "query": "over 50s money",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 71.2
+  },
+  {
+   "query": "over leverage meaning",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 5.7
+  },
+  {
+   "query": "over leveraged",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 3.5
+  },
+  {
+   "query": "over leveraged meaning",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "over leveraging meaning",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "query": "over-leverage",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "over-leveraged",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 2.7
+  },
+  {
+   "query": "overleverage",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "overleveraged",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "perth liveability ranking",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "positive cash flow vs capital growth properties when building a portfolio (for australia)",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "principal and interest loan vs interest only",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "query": "principal and interest vs interest only",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "query": "property capital growth",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "query": "property equity",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "query": "property investment returns",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 49.7
+  },
+  {
+   "query": "property investment with superannuation",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "property returns",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "query": "property wealth creation",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "purchase investment property with superannuation",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "purchase property with super",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 47.7
+  },
+  {
+   "query": "purchase property with superannuation",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "purchasing property through smsf",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 58.5
+  },
+  {
+   "query": "purchasing property with super",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "purchasing property with superannuation",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "rba rate hike 4.35 percent",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 64
+  },
+  {
+   "query": "real estate debt",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 60
+  },
+  {
+   "query": "rentvesting",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 84.7
+  },
+  {
+   "query": "rentvesting australia",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "rentvesting meaning",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 61.5
+  },
+  {
+   "query": "rentvesting trend australia",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "rentvestment",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 48.4
+  },
+  {
+   "query": "retire at 45",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "retire at 50 australia",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "query": "retire by 40",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "query": "rockwall finance",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "rockwell finance",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 5.6
+  },
+  {
+   "query": "rockwell financial group",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "query": "self managed super fund buying property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36
+  },
+  {
+   "query": "self managed super fund investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 34
+  },
+  {
+   "query": "self managed super fund investment property rules",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "self managed super fund property",
+   "clicks": 0,
+   "impressions": 64,
+   "ctr": 0,
+   "position": 29.7
+  },
+  {
+   "query": "self managed super fund property investment",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "self managed super fund property investment rules",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "self-managed super fund property purchase",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "smsf and property investment",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "smsf buy property",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "smsf buying property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "smsf direct property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "smsf property",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 24.2
+  },
+  {
+   "query": "smsf to buy property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "super for investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "super fund investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "super investment property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 35
+  },
+  {
+   "query": "super to buy investment property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 41.3
+  },
+  {
+   "query": "superannuation buy property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "superannuation for investment property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.7
+  },
+  {
+   "query": "superannuation investment property",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 39.7
+  },
+  {
+   "query": "sydney is better than melbourne",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "use equity to buy investment property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 84.5
+  },
+  {
+   "query": "use home equity to buy investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 91
+  },
+  {
+   "query": "use super to buy investment property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41.5
+  },
+  {
+   "query": "use your super to buy investment property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "using equity to buy an investment property",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 84.5
+  },
+  {
+   "query": "using equity to buy investment property",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 76.9
+  },
+  {
+   "query": "using equity to buy investment property sydney",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "using home equity for investment properties",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 93.5
+  },
+  {
+   "query": "using super to buy investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "using super to purchase investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "query": "using superannuation for investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "using your super to buy an investment property",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "wealth creation property investment",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 45.8
+  },
+  {
+   "query": "wealth creation through property",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 50.7
+  },
+  {
+   "query": "what is capital growth",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 25.4
+  },
+  {
+   "query": "what is capital growth in investment",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "what is capital growth in property",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 23.7
+  },
+  {
+   "query": "what is equity in property",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 89.8
+  },
+  {
+   "query": "what is good debt",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 83.6
+  },
+  {
+   "query": "what is rentvesting",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "what is rentvesting australia",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
+  },
+  {
+   "query": "what is rentvesting in australia",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 78.5
+  },
+  {
+   "query": "what is the best city in australia to live in",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "why invest in brisbane instead of melbourne? asking as: investor / fdi decision maker",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6.5
+  },
+  {
+   "query": "yes please",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
   }
  ],
  "pages": [
   {
    "page": "https://rockwellfinancial.com.au/",
-   "clicks": 2,
+   "clicks": 19,
+   "impressions": 74,
+   "ctr": 0.2568,
+   "position": 3.4
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/about/",
+   "clicks": 1,
+   "impressions": 31,
+   "ctr": 0.0323,
+   "position": 4.4
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/new-build-definition-negative-gearing-australia/",
+   "clicks": 1,
+   "impressions": 18,
+   "ctr": 0.0556,
+   "position": 24.1
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/anz-scraps-too-pessimistic-house-price-call/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 13.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/are-you-missing-these-key-wealth-levers-a-smarter-way-to-grow-your-money/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/australia-housing-supply-crisis-property-investors-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/australia-population-growth-property-demand-2026/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 4.2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/australian-property-market-explained/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/beyond-the-hype-unveiling-melbournes-lucrative-property-opportunities/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 52.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/book-your-review-with-our-client-review-manager/",
+   "clicks": 0,
    "impressions": 6,
-   "ctr": 0.3333,
-   "position": 2.3
+   "ctr": 0,
+   "position": 3.2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/book/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/build-to-rent-australia-investment-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 372,
+   "ctr": 0,
+   "position": 41.2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 70,
+   "ctr": 0,
+   "position": 28.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/contact/",
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 10.2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/corelogic-five-things-to-know-about-migration-and-the-housing-market/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 27,
+   "ctr": 0,
+   "position": 34.4
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/hospital-boom-property-markets-australia-2026/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 8.6
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/how-we-work/",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 5.2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/increase-housing-supply-australia-state-laws-2026/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/insights/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 5.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/interest-rate-trap-property-australia/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/investment-property-top-tips/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 96
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/melbourne-best-city-world-2026-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/melbourne-housing-market-opportunity-knocks-for-savvy-investors/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/melbournes-2024-mid-year-housing-market-update/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 62.5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
+   "clicks": 0,
+   "impressions": 46,
+   "ctr": 0,
+   "position": 10.9
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/negative-gearing-new-builds-australia-2027/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 86.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/new-home-construction-starts-australia-2026/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 5.4
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 34,
+   "ctr": 0,
+   "position": 4.9
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/privacy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/property-resale-profit-australia-2026/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 2
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/rba-cash-rate-rise-property-investors-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 33
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/regional-victoria-a-prime-investment-ground-for-2024/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 51
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/rent-growth-australia-capital-cities-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 25,
+   "ctr": 0,
+   "position": 49.8
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/services/",
+   "clicks": 0,
+   "impressions": 14,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/services/mortgage-reduction/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/services/property-investment/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 8.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/services/retirement-planning/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/services/tax-savings/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
+   "clicks": 0,
+   "impressions": 31,
+   "ctr": 0,
+   "position": 32.0
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/sunny-forecast-for-property/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 46
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/the-property-market-is-growing-but-not-everywhere-equally/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 56.5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/the-relative-resilience-of-property-values/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/the-rise-and-rise-of-melbourne-residential-property/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/the-week-in-real-estate/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/thinking-about-retirement-australia-40s-50s/",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 58.9
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/townhouse-hotspots-australia-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 20,
+   "ctr": 0,
+   "position": 36.8
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 65,
+   "ctr": 0,
+   "position": 81.9
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/what-is-equity-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 69.3
+  },
+  {
+   "page": "https://rockwellfinancial.com.au/where-to-invest-in-property-australia-2026/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 3.8
   }
  ],
  "query_page": [
   {
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/",
-   "clicks": 2,
-   "impressions": 2,
+   "clicks": 9,
+   "impressions": 12,
+   "ctr": 0.75,
+   "position": 1.2
+  },
+  {
+   "query": "rockwell investments",
+   "page": "https://rockwellfinancial.com.au/",
+   "clicks": 1,
+   "impressions": 1,
    "ctr": 1,
+   "position": 10
+  },
+  {
+   "query": "\"buying investment property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "\"super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45.7
+  },
+  {
+   "query": "\"using super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 55
+  },
+  {
+   "query": "best town in australia 2026",
+   "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "buy a property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "buy an investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 46.3
+  },
+  {
+   "query": "buy investment property using superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45.3
+  },
+  {
+   "query": "buy investment property with equity",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "query": "buy investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 44.7
+  },
+  {
+   "query": "buy investment property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "buy property in smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "buy property smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 32.7
+  },
+  {
+   "query": "buy property superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 39.7
+  },
+  {
+   "query": "buy property using super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "buy property using superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "buy property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 15,
+   "ctr": 0,
+   "position": 44.3
+  },
+  {
+   "query": "buy property with super australia",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "buy property with super melbourne",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "buy property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45.7
+  },
+  {
+   "query": "buy property with your super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "buying a investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "buying an investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "buying investment property in australia",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 93.2
+  },
+  {
+   "query": "buying investment property using superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "buying investment property with equity",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 89.2
+  },
+  {
+   "query": "buying investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 18,
+   "ctr": 0,
+   "position": 47.9
+  },
+  {
+   "query": "buying investment property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 50.4
+  },
+  {
+   "query": "buying property in a smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "buying property in smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "buying property in super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "buying property in your super fund",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.7
+  },
+  {
+   "query": "buying property self managed super funds",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "buying property smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "buying property super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "buying property through smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 51.7
+  },
+  {
+   "query": "buying property through super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 57
+  },
+  {
+   "query": "buying property using superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50.5
+  },
+  {
+   "query": "buying property with self managed super fund",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 43.3
+  },
+  {
+   "query": "buying property with smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36.5
+  },
+  {
+   "query": "buying property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 51.3
+  },
+  {
+   "query": "buying property with super fund",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 46
+  },
+  {
+   "query": "buying property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 48.5
+  },
+  {
+   "query": "can i buy a house with my super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "can i buy a property from my smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "can i buy a property with my super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 43.3
+  },
+  {
+   "query": "can i buy an investment property with my super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 17,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "can i buy investment property with my super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "can i buy property with my super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 41.3
+  },
+  {
+   "query": "can i use equity to buy investment property melbourne",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 76
+  },
+  {
+   "query": "can i use my super for investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "can i use my super to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 51.4
+  },
+  {
+   "query": "can i use my super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "can i use my super to invest in property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 46
+  },
+  {
+   "query": "can i use super to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 54
+  },
+  {
+   "query": "can you buy a house with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "can you buy a house with your super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 36.8
+  },
+  {
+   "query": "can you buy an investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 36.3
+  },
+  {
+   "query": "can you buy an investment property with your super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 34.4
+  },
+  {
+   "query": "can you buy an investment property with your superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 34
+  },
+  {
+   "query": "can you buy investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 40.3
+  },
+  {
+   "query": "can you buy property with a self managed super fund",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 35.2
+  },
+  {
+   "query": "can you buy property with your super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 30.5
+  },
+  {
+   "query": "can you use super for investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "can you use super to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "can you use super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "can you use super to buy property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 58
+  },
+  {
+   "query": "can you use your super to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 48.4
+  },
+  {
+   "query": "can you use your super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "capital growth",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 10,
+   "ctr": 0,
+   "position": 28.8
+  },
+  {
+   "query": "capital growth investments",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 32.1
+  },
+  {
+   "query": "capital growth investors",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 25.5
+  },
+  {
+   "query": "capital growth melbourne",
+   "page": "https://rockwellfinancial.com.au/melbourne-housing-market-opportunity-knocks-for-savvy-investors/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "capital growth property",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 25.4
+  },
+  {
+   "query": "capital growth rate",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 51.3
+  },
+  {
+   "query": "check afsl",
+   "page": "https://rockwellfinancial.com.au/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "debt investing",
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 92
+  },
+  {
+   "query": "definition of new build for negative gearing",
+   "page": "https://rockwellfinancial.com.au/new-build-definition-negative-gearing-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 8.5
+  },
+  {
+   "query": "equity",
+   "page": "https://rockwellfinancial.com.au/what-is-equity-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 87.5
+  },
+  {
+   "query": "equity explained",
+   "page": "https://rockwellfinancial.com.au/what-is-equity-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 53.8
+  },
+  {
+   "query": "equity for investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
+   "query": "equity investment australia",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 37
+  },
+  {
+   "query": "financial planning and property investment",
+   "page": "https://rockwellfinancial.com.au/investment-property-top-tips/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 96
+  },
+  {
+   "query": "fixed return real estate investment",
+   "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "how long have they been in business",
+   "page": "https://rockwellfinancial.com.au/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
    "position": 1
+  },
+  {
+   "query": "how to buy an investment property with equity",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 88.5
+  },
+  {
+   "query": "how to buy an investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "how to buy investment property with equity",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 78
+  },
+  {
+   "query": "how to invest in property australia",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "query": "how to invest in property in australia",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 87
+  },
+  {
+   "query": "how to use equity to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 76.8
+  },
+  {
+   "query": "how to use equity to buy investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 92.7
+  },
+  {
+   "query": "how to use home equity to buy investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
+  },
+  {
+   "query": "interest only vs principal and interest",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 86.4
+  },
+  {
+   "query": "invest super in property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "invest superannuation in property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "investing in property through superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "investing in property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 45
+  },
+  {
+   "query": "investing super in property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "investing super into property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41.5
+  },
+  {
+   "query": "investing superannuation in property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "investment opportunities melbourne",
+   "page": "https://rockwellfinancial.com.au/beyond-the-hype-unveiling-melbournes-lucrative-property-opportunities/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 70
+  },
+  {
+   "query": "investment property equity loan",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 98
+  },
+  {
+   "query": "investment property interest only",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
+  },
+  {
+   "query": "investment property interest only loan",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 80
+  },
+  {
+   "query": "investment property self managed super fund",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "investment property using super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "investment property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 39.8
+  },
+  {
+   "query": "is there any benefit to waiting for lower mortgage rates?",
+   "page": "https://rockwellfinancial.com.au/interest-rate-trap-property-australia/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "long term capital growth australia",
+   "page": "https://rockwellfinancial.com.au/the-property-market-is-growing-but-not-everywhere-equally/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 48.3
+  },
+  {
+   "query": "melbourne property market trends 2024",
+   "page": "https://rockwellfinancial.com.au/melbournes-2024-mid-year-housing-market-update/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 62.5
+  },
+  {
+   "query": "melbourne real estate investment opportunities",
+   "page": "https://rockwellfinancial.com.au/beyond-the-hype-unveiling-melbournes-lucrative-property-opportunities/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 65
+  },
+  {
+   "query": "negative gearing changes 2026",
+   "page": "https://rockwellfinancial.com.au/negative-gearing-new-builds-australia-2027/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 99.5
+  },
+  {
+   "query": "negative gearing new builds",
+   "page": "https://rockwellfinancial.com.au/new-build-definition-negative-gearing-australia/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 82
+  },
+  {
+   "query": "over 50s money",
+   "page": "https://rockwellfinancial.com.au/thinking-about-retirement-australia-40s-50s/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 71.2
+  },
+  {
+   "query": "over leverage meaning",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 5.7
+  },
+  {
+   "query": "over leveraged",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 3.5
+  },
+  {
+   "query": "over leveraged meaning",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "over leveraging meaning",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 7
+  },
+  {
+   "query": "over-leverage",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 6
+  },
+  {
+   "query": "over-leveraged",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 2.7
+  },
+  {
+   "query": "overleverage",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "overleveraged",
+   "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "perth liveability ranking",
+   "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 11
+  },
+  {
+   "query": "positive cash flow vs capital growth properties when building a portfolio (for australia)",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "principal and interest loan vs interest only",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 85
+  },
+  {
+   "query": "principal and interest vs interest only",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 77
+  },
+  {
+   "query": "property capital growth",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 16
+  },
+  {
+   "query": "property equity",
+   "page": "https://rockwellfinancial.com.au/what-is-equity-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 83
+  },
+  {
+   "query": "property investment returns",
+   "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 49.7
+  },
+  {
+   "query": "property investment with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "property returns",
+   "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 13
+  },
+  {
+   "query": "property wealth creation",
+   "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "purchase investment property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "purchase property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 47.7
+  },
+  {
+   "query": "purchase property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 46.5
+  },
+  {
+   "query": "purchasing property through smsf",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 58.5
+  },
+  {
+   "query": "purchasing property with super",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 56
+  },
+  {
+   "query": "purchasing property with superannuation",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "rba rate hike 4.35 percent",
+   "page": "https://rockwellfinancial.com.au/rba-cash-rate-rise-property-investors-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 64
+  },
+  {
+   "query": "real estate debt",
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 60
+  },
+  {
+   "query": "rentvesting",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 84.7
+  },
+  {
+   "query": "rentvesting australia",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "rentvesting meaning",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 61.5
+  },
+  {
+   "query": "rentvesting trend australia",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 75
+  },
+  {
+   "query": "rentvestment",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 48.4
+  },
+  {
+   "query": "retire at 45",
+   "page": "https://rockwellfinancial.com.au/thinking-about-retirement-australia-40s-50s/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "retire at 50 australia",
+   "page": "https://rockwellfinancial.com.au/thinking-about-retirement-australia-40s-50s/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 93
+  },
+  {
+   "query": "retire by 40",
+   "page": "https://rockwellfinancial.com.au/thinking-about-retirement-australia-40s-50s/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 28
+  },
+  {
+   "query": "rockwall finance",
+   "page": "https://rockwellfinancial.com.au/about/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "rockwell finance",
+   "page": "https://rockwellfinancial.com.au/",
+   "clicks": 0,
+   "impressions": 13,
+   "ctr": 0,
+   "position": 5.6
+  },
+  {
+   "query": "rockwell finance",
+   "page": "https://rockwellfinancial.com.au/about/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "query": "rockwell finance",
+   "page": "https://rockwellfinancial.com.au/contact/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "query": "rockwell finance",
+   "page": "https://rockwellfinancial.com.au/services/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 5
+  },
+  {
+   "query": "rockwell finance",
+   "page": "https://rockwellfinancial.com.au/services/property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 8
+  },
+  {
+   "query": "rockwell financial",
+   "page": "https://rockwellfinancial.com.au/about/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "rockwell financial",
+   "page": "https://rockwellfinancial.com.au/contact/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 9
+  },
+  {
+   "query": "rockwell financial",
+   "page": "https://rockwellfinancial.com.au/insights/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "query": "rockwell financial",
+   "page": "https://rockwellfinancial.com.au/services/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 5.5
+  },
+  {
+   "query": "rockwell financial",
+   "page": "https://rockwellfinancial.com.au/services/property-investment/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "query": "rockwell financial",
+   "page": "https://rockwellfinancial.com.au/services/retirement-planning/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 4
+  },
+  {
+   "query": "rockwell financial group",
+   "page": "https://rockwellfinancial.com.au/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
+  },
+  {
+   "query": "rockwell investments",
+   "page": "https://rockwellfinancial.com.au/about/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 3
+  },
+  {
+   "query": "self managed super fund buying property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 36
+  },
+  {
+   "query": "self managed super fund investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 34
+  },
+  {
+   "query": "self managed super fund investment property rules",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 38
+  },
+  {
+   "query": "self managed super fund property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 64,
+   "ctr": 0,
+   "position": 29.7
+  },
+  {
+   "query": "self managed super fund property investment",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 8,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "self managed super fund property investment rules",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "self-managed super fund property purchase",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 41
+  },
+  {
+   "query": "smsf and property investment",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 43
+  },
+  {
+   "query": "smsf buy property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 39
+  },
+  {
+   "query": "smsf buying property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "smsf direct property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 43.5
+  },
+  {
+   "query": "smsf property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 4,
+   "ctr": 0,
+   "position": 24.2
+  },
+  {
+   "query": "smsf to buy property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "super for investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 47
+  },
+  {
+   "query": "super fund investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 40
+  },
+  {
+   "query": "super investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 35
+  },
+  {
+   "query": "super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 41.3
+  },
+  {
+   "query": "superannuation buy property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "superannuation for investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 42.7
+  },
+  {
+   "query": "superannuation investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 39.7
+  },
+  {
+   "query": "sydney is better than melbourne",
+   "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "use equity to buy investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 84.5
+  },
+  {
+   "query": "use home equity to buy investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 91
+  },
+  {
+   "query": "use super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 41.5
+  },
+  {
+   "query": "use your super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 48
+  },
+  {
+   "query": "using equity to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 84.5
+  },
+  {
+   "query": "using equity to buy investment property",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 76.9
+  },
+  {
+   "query": "using equity to buy investment property sydney",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 49
+  },
+  {
+   "query": "using home equity for investment properties",
+   "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 93.5
+  },
+  {
+   "query": "using super to buy investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 42
+  },
+  {
+   "query": "using super to purchase investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 52
+  },
+  {
+   "query": "using superannuation for investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 44
+  },
+  {
+   "query": "using your super to buy an investment property",
+   "page": "https://rockwellfinancial.com.au/can-you-buy-a-property-in-your-super/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 50
+  },
+  {
+   "query": "wealth creation property investment",
+   "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 45.8
+  },
+  {
+   "query": "wealth creation through property",
+   "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
+   "clicks": 0,
+   "impressions": 3,
+   "ctr": 0,
+   "position": 50.7
+  },
+  {
+   "query": "what is capital growth",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 12,
+   "ctr": 0,
+   "position": 25.4
+  },
+  {
+   "query": "what is capital growth in investment",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 7,
+   "ctr": 0,
+   "position": 30
+  },
+  {
+   "query": "what is capital growth in property",
+   "page": "https://rockwellfinancial.com.au/capital-growth-cash-flow-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 6,
+   "ctr": 0,
+   "position": 23.7
+  },
+  {
+   "query": "what is equity in property",
+   "page": "https://rockwellfinancial.com.au/what-is-equity-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 89.8
+  },
+  {
+   "query": "what is good debt",
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 9,
+   "ctr": 0,
+   "position": 83.6
+  },
+  {
+   "query": "what is rentvesting",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
+  },
+  {
+   "query": "what is rentvesting australia",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
+  },
+  {
+   "query": "what is rentvesting in australia",
+   "page": "https://rockwellfinancial.com.au/rentvesting-australia-property-investment-strategy/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 78.5
+  },
+  {
+   "query": "what is the best city in australia to live in",
+   "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 1
+  },
+  {
+   "query": "why invest in brisbane instead of melbourne? asking as: investor / fdi decision maker",
+   "page": "https://rockwellfinancial.com.au/where-to-invest-in-property-australia-2026/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 6.5
+  },
+  {
+   "query": "yes please",
+   "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 10
   }
  ],
  "devices": [
   {
    "device": "DESKTOP",
-   "clicks": 1,
-   "impressions": 4,
-   "ctr": 0.25,
-   "position": 2.2
+   "clicks": 12,
+   "impressions": 647,
+   "ctr": 0.0185,
+   "position": 38.9
   },
   {
    "device": "MOBILE",
-   "clicks": 1,
+   "clicks": 9,
+   "impressions": 202,
+   "ctr": 0.0446,
+   "position": 32.3
+  },
+  {
+   "device": "TABLET",
+   "clicks": 0,
    "impressions": 2,
-   "ctr": 0.5,
-   "position": 2.5
+   "ctr": 0,
+   "position": 44
   }
  ]
 }
