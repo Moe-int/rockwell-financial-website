@@ -1,30 +1,30 @@
 {
- "generated": "2026-11-09T18:00:02",
+ "generated": "2026-11-18T15:58:20",
  "site": "https://rockwellfinancial.com.au/",
  "period": {
-  "start": "2026-10-11",
-  "end": "2026-11-07"
+  "start": "2026-10-20",
+  "end": "2026-11-16"
  },
  "totals": {
-  "clicks": 25,
-  "impressions": 1073,
-  "ctr": 0.0233,
-  "position": 38.2796
+  "clicks": 28,
+  "impressions": 1211,
+  "ctr": 0.0231,
+  "position": 40.3204
  },
  "queries": [
   {
    "query": "rockwell financial",
-   "clicks": 12,
-   "impressions": 18,
-   "ctr": 0.6667,
-   "position": 2.2
+   "clicks": 14,
+   "impressions": 22,
+   "ctr": 0.6364,
+   "position": 2
   },
   {
    "query": "rockwell finance",
    "clicks": 1,
-   "impressions": 21,
-   "ctr": 0.0476,
-   "position": 5.8
+   "impressions": 25,
+   "ctr": 0.04,
+   "position": 5.7
   },
   {
    "query": "rockwell investments",
@@ -596,9 +596,16 @@
   {
    "query": "debt investing",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 92
+   "position": 94.5
+  },
+  {
+   "query": "debt investment",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
   },
   {
    "query": "definition of new build for negative gearing",
@@ -636,11 +643,25 @@
    "position": 59
   },
   {
+   "query": "financial advice property investment",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 84
+  },
+  {
    "query": "financial health monitoring lenders",
    "clicks": 0,
    "impressions": 3,
    "ctr": 0,
    "position": 19
+  },
+  {
+   "query": "financial planner property investment",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
   },
   {
    "query": "financial planning and property investment",
@@ -652,16 +673,23 @@
   {
    "query": "fixed return real estate investment",
    "clicks": 0,
-   "impressions": 11,
+   "impressions": 20,
    "ctr": 0,
-   "position": 75.6
+   "position": 73.0
   },
   {
    "query": "good debt",
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 3,
    "ctr": 0,
-   "position": 82.5
+   "position": 87.7
+  },
+  {
+   "query": "good debt example",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 84
   },
   {
    "query": "how does equity work when buying a house",
@@ -743,23 +771,30 @@
   {
    "query": "interest only loan for investment property",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 83
+   "position": 81.5
   },
   {
    "query": "interest only loans for investment properties",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 3,
    "ctr": 0,
-   "position": 81
+   "position": 82
   },
   {
    "query": "interest only vs principal and interest",
    "clicks": 0,
-   "impressions": 17,
+   "impressions": 21,
    "ctr": 0,
-   "position": 88.5
+   "position": 89.2
+  },
+  {
+   "query": "interest-only investment loans",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 100
   },
   {
    "query": "invest super in property",
@@ -867,6 +902,13 @@
    "position": 39.8
   },
   {
+   "query": "investor interest only loan",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
    "query": "is there any benefit to waiting for lower mortgage rates?",
    "clicks": 0,
    "impressions": 4,
@@ -890,9 +932,9 @@
   {
    "query": "melbourne property market trends 2024",
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 4,
    "ctr": 0,
-   "position": 57.3
+   "position": 55.8
   },
   {
    "query": "melbourne real estate investment opportunities",
@@ -1009,9 +1051,9 @@
   {
    "query": "principal and interest vs interest only",
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 5,
    "ctr": 0,
-   "position": 82.7
+   "position": 87
   },
   {
    "query": "property capital growth",
@@ -1037,9 +1079,9 @@
   {
    "query": "property investment returns",
    "clicks": 0,
-   "impressions": 13,
+   "impressions": 21,
    "ctr": 0,
-   "position": 57
+   "position": 60.9
   },
   {
    "query": "property investment with superannuation",
@@ -1058,9 +1100,16 @@
   {
    "query": "property wealth creation",
    "clicks": 0,
-   "impressions": 17,
+   "impressions": 23,
    "ctr": 0,
-   "position": 44.6
+   "position": 50.2
+  },
+  {
+   "query": "property wealth management",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 68.8
   },
   {
    "query": "purchase investment property with superannuation",
@@ -1114,9 +1163,9 @@
   {
    "query": "real estate debt",
    "clicks": 0,
-   "impressions": 5,
+   "impressions": 14,
    "ctr": 0,
-   "position": 78
+   "position": 85.1
   },
   {
    "query": "rentvesting",
@@ -1177,9 +1226,9 @@
   {
    "query": "rocket financial",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 12,
    "ctr": 0,
-   "position": 83
+   "position": 81.2
   },
   {
    "query": "rockwall finance",
@@ -1191,9 +1240,9 @@
   {
    "query": "rockwell financial group",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 6,
    "ctr": 0,
-   "position": 10
+   "position": 26
   },
   {
    "query": "rockwell property",
@@ -1478,23 +1527,23 @@
   {
    "query": "wealth creation property",
    "clicks": 0,
-   "impressions": 4,
+   "impressions": 5,
    "ctr": 0,
-   "position": 45.5
+   "position": 45.8
   },
   {
    "query": "wealth creation property investment",
    "clicks": 0,
-   "impressions": 10,
+   "impressions": 12,
    "ctr": 0,
-   "position": 44.9
+   "position": 47.2
   },
   {
    "query": "wealth creation through property",
    "clicks": 0,
-   "impressions": 11,
+   "impressions": 13,
    "ctr": 0,
-   "position": 48.7
+   "position": 48.6
   },
   {
    "query": "wealth creation through property investment",
@@ -1502,6 +1551,13 @@
    "impressions": 1,
    "ctr": 0,
    "position": 36
+  },
+  {
+   "query": "what debt is good debt",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
   },
   {
    "query": "what is australia's most liveable city according to the global liveability report?",
@@ -1541,9 +1597,9 @@
   {
    "query": "what is good debt",
    "clicks": 0,
-   "impressions": 22,
+   "impressions": 39,
    "ctr": 0,
-   "position": 87.1
+   "position": 87.3
   },
   {
    "query": "what is rentvesting",
@@ -1591,17 +1647,17 @@
  "pages": [
   {
    "page": "https://rockwellfinancial.com.au/",
-   "clicks": 23,
-   "impressions": 104,
-   "ctr": 0.2212,
-   "position": 4.4
+   "clicks": 26,
+   "impressions": 139,
+   "ctr": 0.1871,
+   "position": 11.3
   },
   {
    "page": "https://rockwellfinancial.com.au/about/",
    "clicks": 1,
-   "impressions": 41,
-   "ctr": 0.0244,
-   "position": 4.7
+   "impressions": 48,
+   "ctr": 0.0208,
+   "position": 4.5
   },
   {
    "page": "https://rockwellfinancial.com.au/new-build-definition-negative-gearing-australia/",
@@ -1669,9 +1725,9 @@
   {
    "page": "https://rockwellfinancial.com.au/book/",
    "clicks": 0,
-   "impressions": 7,
+   "impressions": 8,
    "ctr": 0,
-   "position": 2.9
+   "position": 2.6
   },
   {
    "page": "https://rockwellfinancial.com.au/build-to-rent-australia-investment-2026/",
@@ -1697,23 +1753,23 @@
   {
    "page": "https://rockwellfinancial.com.au/contact/",
    "clicks": 0,
-   "impressions": 26,
+   "impressions": 34,
    "ctr": 0,
-   "position": 8.0
+   "position": 9.9
   },
   {
    "page": "https://rockwellfinancial.com.au/corelogic-five-things-to-know-about-migration-and-the-housing-market/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 11
+   "position": 6.5
   },
   {
    "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
    "clicks": 0,
-   "impressions": 48,
+   "impressions": 81,
    "ctr": 0,
-   "position": 55.9
+   "position": 67.5
   },
   {
    "page": "https://rockwellfinancial.com.au/home",
@@ -1725,16 +1781,16 @@
   {
    "page": "https://rockwellfinancial.com.au/hospital-boom-property-markets-australia-2026/",
    "clicks": 0,
-   "impressions": 9,
+   "impressions": 10,
    "ctr": 0,
-   "position": 7.9
+   "position": 8
   },
   {
    "page": "https://rockwellfinancial.com.au/how-we-work/",
    "clicks": 0,
-   "impressions": 20,
+   "impressions": 23,
    "ctr": 0,
-   "position": 5.5
+   "position": 5.8
   },
   {
    "page": "https://rockwellfinancial.com.au/increase-housing-supply-australia-state-laws-2026/",
@@ -1767,16 +1823,16 @@
   {
    "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
    "clicks": 0,
-   "impressions": 30,
+   "impressions": 44,
    "ctr": 0,
-   "position": 78.2
+   "position": 77.7
   },
   {
    "page": "https://rockwellfinancial.com.au/interest-rate-trap-property-australia/",
    "clicks": 0,
-   "impressions": 12,
+   "impressions": 13,
    "ctr": 0,
-   "position": 5.8
+   "position": 5.9
   },
   {
    "page": "https://rockwellfinancial.com.au/investment-property-top-tips/",
@@ -1802,16 +1858,16 @@
   {
    "page": "https://rockwellfinancial.com.au/melbournes-2024-mid-year-housing-market-update/",
    "clicks": 0,
-   "impressions": 4,
+   "impressions": 5,
    "ctr": 0,
-   "position": 44
+   "position": 45.4
   },
   {
    "page": "https://rockwellfinancial.com.au/most-liveable-cities-australia-2026/",
    "clicks": 0,
-   "impressions": 58,
+   "impressions": 65,
    "ctr": 0,
-   "position": 10.4
+   "position": 10.2
   },
   {
    "page": "https://rockwellfinancial.com.au/negative-gearing-new-builds-australia-2027/",
@@ -1823,9 +1879,9 @@
   {
    "page": "https://rockwellfinancial.com.au/new-home-construction-starts-australia-2026/",
    "clicks": 0,
-   "impressions": 7,
+   "impressions": 9,
    "ctr": 0,
-   "position": 6
+   "position": 6.1
   },
   {
    "page": "https://rockwellfinancial.com.au/nows-as-good-a-time-as-any-for-a-financial-health-check/",
@@ -1837,9 +1893,9 @@
   {
    "page": "https://rockwellfinancial.com.au/over-leveraged-property-investment-australia/",
    "clicks": 0,
-   "impressions": 42,
+   "impressions": 43,
    "ctr": 0,
-   "position": 4.8
+   "position": 4.7
   },
   {
    "page": "https://rockwellfinancial.com.au/privacy/",
@@ -1886,9 +1942,9 @@
   {
    "page": "https://rockwellfinancial.com.au/services/",
    "clicks": 0,
-   "impressions": 24,
+   "impressions": 29,
    "ctr": 0,
-   "position": 4.8
+   "position": 4.6
   },
   {
    "page": "https://rockwellfinancial.com.au/services/mortgage-reduction/",
@@ -1900,16 +1956,16 @@
   {
    "page": "https://rockwellfinancial.com.au/services/property-investment/",
    "clicks": 0,
-   "impressions": 8,
+   "impressions": 15,
    "ctr": 0,
-   "position": 8
+   "position": 38.7
   },
   {
    "page": "https://rockwellfinancial.com.au/services/retirement-planning/",
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 4,
    "ctr": 0,
-   "position": 8.3
+   "position": 50.8
   },
   {
    "page": "https://rockwellfinancial.com.au/services/tax-savings/",
@@ -1921,9 +1977,9 @@
   {
    "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
    "clicks": 0,
-   "impressions": 55,
+   "impressions": 66,
    "ctr": 0,
-   "position": 36.8
+   "position": 40.6
   },
   {
    "page": "https://rockwellfinancial.com.au/sunny-forecast-for-property/",
@@ -1949,9 +2005,9 @@
   {
    "page": "https://rockwellfinancial.com.au/the-rise-and-rise-of-melbourne-residential-property/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 1
+   "position": 5.5
   },
   {
    "page": "https://rockwellfinancial.com.au/the-week-in-real-estate/",
@@ -1963,9 +2019,9 @@
   {
    "page": "https://rockwellfinancial.com.au/thinking-about-retirement-australia-40s-50s/",
    "clicks": 0,
-   "impressions": 16,
+   "impressions": 17,
    "ctr": 0,
-   "position": 56.6
+   "position": 53.6
   },
   {
    "page": "https://rockwellfinancial.com.au/townhouse-hotspots-australia-2026/",
@@ -1977,9 +2033,9 @@
   {
    "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
    "clicks": 0,
-   "impressions": 35,
+   "impressions": 52,
    "ctr": 0,
-   "position": 47.4
+   "position": 54.3
   },
   {
    "page": "https://rockwellfinancial.com.au/using-equity-to-buy-investment-property-australia/",
@@ -2007,18 +2063,18 @@
   {
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/",
-   "clicks": 12,
-   "impressions": 17,
-   "ctr": 0.7059,
+   "clicks": 14,
+   "impressions": 21,
+   "ctr": 0.6667,
    "position": 1.2
   },
   {
    "query": "rockwell finance",
    "page": "https://rockwellfinancial.com.au/",
    "clicks": 1,
-   "impressions": 21,
-   "ctr": 0.0476,
-   "position": 5.9
+   "impressions": 25,
+   "ctr": 0.04,
+   "position": 5.8
   },
   {
    "query": "rockwell investments",
@@ -2672,9 +2728,17 @@
    "query": "debt investing",
    "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 92
+   "position": 94.5
+  },
+  {
+   "query": "debt investment",
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 2,
+   "ctr": 0,
+   "position": 69
   },
   {
    "query": "definition of new build for negative gearing",
@@ -2717,12 +2781,28 @@
    "position": 59
   },
   {
+   "query": "financial advice property investment",
+   "page": "https://rockwellfinancial.com.au/services/property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 84
+  },
+  {
    "query": "financial health monitoring lenders",
    "page": "https://rockwellfinancial.com.au/nows-as-good-a-time-as-any-for-a-financial-health-check/",
    "clicks": 0,
    "impressions": 3,
    "ctr": 0,
    "position": 19
+  },
+  {
+   "query": "financial planner property investment",
+   "page": "https://rockwellfinancial.com.au/services/property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 88
   },
   {
    "query": "financial planning and property investment",
@@ -2736,17 +2816,25 @@
    "query": "fixed return real estate investment",
    "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
    "clicks": 0,
-   "impressions": 11,
+   "impressions": 20,
    "ctr": 0,
-   "position": 75.6
+   "position": 73.0
   },
   {
    "query": "good debt",
    "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
    "clicks": 0,
-   "impressions": 2,
+   "impressions": 3,
    "ctr": 0,
-   "position": 82.5
+   "position": 87.7
+  },
+  {
+   "query": "good debt example",
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 84
   },
   {
    "query": "how does equity work when buying a house",
@@ -2840,25 +2928,33 @@
    "query": "interest only loan for investment property",
    "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 83
+   "position": 81.5
   },
   {
    "query": "interest only loans for investment properties",
    "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 3,
    "ctr": 0,
-   "position": 81
+   "position": 82
   },
   {
    "query": "interest only vs principal and interest",
    "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
    "clicks": 0,
-   "impressions": 17,
+   "impressions": 21,
    "ctr": 0,
-   "position": 88.5
+   "position": 89.2
+  },
+  {
+   "query": "interest-only investment loans",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 100
   },
   {
    "query": "invest super in property",
@@ -2981,6 +3077,14 @@
    "position": 39.8
   },
   {
+   "query": "investor interest only loan",
+   "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 89
+  },
+  {
    "query": "is there any benefit to waiting for lower mortgage rates?",
    "page": "https://rockwellfinancial.com.au/interest-rate-trap-property-australia/",
    "clicks": 0,
@@ -3008,9 +3112,9 @@
    "query": "melbourne property market trends 2024",
    "page": "https://rockwellfinancial.com.au/melbournes-2024-mid-year-housing-market-update/",
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 4,
    "ctr": 0,
-   "position": 57.3
+   "position": 55.8
   },
   {
    "query": "melbourne real estate investment opportunities",
@@ -3152,9 +3256,9 @@
    "query": "principal and interest vs interest only",
    "page": "https://rockwellfinancial.com.au/interest-only-loan-australia-property-investment/",
    "clicks": 0,
-   "impressions": 3,
+   "impressions": 5,
    "ctr": 0,
-   "position": 82.7
+   "position": 87
   },
   {
    "query": "property capital growth",
@@ -3184,9 +3288,9 @@
    "query": "property investment returns",
    "page": "https://rockwellfinancial.com.au/two-returns-property-investment-australia/",
    "clicks": 0,
-   "impressions": 13,
+   "impressions": 21,
    "ctr": 0,
-   "position": 57
+   "position": 60.9
   },
   {
    "query": "property investment with superannuation",
@@ -3208,9 +3312,17 @@
    "query": "property wealth creation",
    "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
    "clicks": 0,
-   "impressions": 17,
+   "impressions": 23,
    "ctr": 0,
-   "position": 44.6
+   "position": 50.2
+  },
+  {
+   "query": "property wealth management",
+   "page": "https://rockwellfinancial.com.au/services/property-investment/",
+   "clicks": 0,
+   "impressions": 5,
+   "ctr": 0,
+   "position": 68.8
   },
   {
    "query": "purchase investment property with superannuation",
@@ -3272,9 +3384,9 @@
    "query": "real estate debt",
    "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
    "clicks": 0,
-   "impressions": 5,
+   "impressions": 14,
    "ctr": 0,
-   "position": 78
+   "position": 85.1
   },
   {
    "query": "rentvesting",
@@ -3344,9 +3456,9 @@
    "query": "rocket financial",
    "page": "https://rockwellfinancial.com.au/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 12,
    "ctr": 0,
-   "position": 83
+   "position": 81.2
   },
   {
    "query": "rockwall finance",
@@ -3400,33 +3512,33 @@
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/about/",
    "clicks": 0,
-   "impressions": 9,
+   "impressions": 10,
    "ctr": 0,
-   "position": 5.2
+   "position": 4.9
   },
   {
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/book/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 4
+   "position": 2.5
   },
   {
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/contact/",
    "clicks": 0,
-   "impressions": 5,
+   "impressions": 9,
    "ctr": 0,
-   "position": 4.8
+   "position": 3.9
   },
   {
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/how-we-work/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 2,
    "ctr": 0,
-   "position": 3
+   "position": 6.5
   },
   {
    "query": "rockwell financial",
@@ -3440,9 +3552,9 @@
    "query": "rockwell financial",
    "page": "https://rockwellfinancial.com.au/services/",
    "clicks": 0,
-   "impressions": 8,
+   "impressions": 12,
    "ctr": 0,
-   "position": 5.1
+   "position": 5
   },
   {
    "query": "rockwell financial",
@@ -3464,9 +3576,9 @@
    "query": "rockwell financial group",
    "page": "https://rockwellfinancial.com.au/",
    "clicks": 0,
-   "impressions": 1,
+   "impressions": 6,
    "ctr": 0,
-   "position": 10
+   "position": 26
   },
   {
    "query": "rockwell investments",
@@ -3808,25 +3920,25 @@
    "query": "wealth creation property",
    "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
    "clicks": 0,
-   "impressions": 4,
+   "impressions": 5,
    "ctr": 0,
-   "position": 45.5
+   "position": 45.8
   },
   {
    "query": "wealth creation property investment",
    "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
    "clicks": 0,
-   "impressions": 10,
+   "impressions": 12,
    "ctr": 0,
-   "position": 44.9
+   "position": 47.2
   },
   {
    "query": "wealth creation through property",
    "page": "https://rockwellfinancial.com.au/services/wealth-creation/",
    "clicks": 0,
-   "impressions": 11,
+   "impressions": 13,
    "ctr": 0,
-   "position": 48.7
+   "position": 48.6
   },
   {
    "query": "wealth creation through property investment",
@@ -3835,6 +3947,14 @@
    "impressions": 1,
    "ctr": 0,
    "position": 36
+  },
+  {
+   "query": "what debt is good debt",
+   "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
+   "clicks": 0,
+   "impressions": 1,
+   "ctr": 0,
+   "position": 81
   },
   {
    "query": "what is australia's most liveable city according to the global liveability report?",
@@ -3880,9 +4000,9 @@
    "query": "what is good debt",
    "page": "https://rockwellfinancial.com.au/good-debt-property-investment-australia/",
    "clicks": 0,
-   "impressions": 22,
+   "impressions": 39,
    "ctr": 0,
-   "position": 87.1
+   "position": 87.3
   },
   {
    "query": "what is rentvesting",
@@ -3936,24 +4056,24 @@
  "devices": [
   {
    "device": "DESKTOP",
-   "clicks": 15,
-   "impressions": 811,
-   "ctr": 0.0185,
-   "position": 40.2
+   "clicks": 16,
+   "impressions": 914,
+   "ctr": 0.0175,
+   "position": 43.0
   },
   {
    "device": "MOBILE",
-   "clicks": 10,
-   "impressions": 259,
-   "ctr": 0.0386,
-   "position": 32.2
+   "clicks": 11,
+   "impressions": 292,
+   "ctr": 0.0377,
+   "position": 31.9
   },
   {
    "device": "TABLET",
-   "clicks": 0,
-   "impressions": 3,
-   "ctr": 0,
-   "position": 56.7
+   "clicks": 1,
+   "impressions": 5,
+   "ctr": 0.2,
+   "position": 34.4
   }
  ]
 }
